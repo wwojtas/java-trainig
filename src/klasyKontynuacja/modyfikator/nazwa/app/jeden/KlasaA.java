@@ -7,7 +7,7 @@ public class KlasaA {
     private int polePrywatne; // dostepne tylko i wyłącznie w danej klasie
     int poleBezNiczego; // package - bez modyfikatora - dostepne w obrębie tego samego package
 
-    KlasaBezNiczego klasaBezNiczego new KlasaBezNiczego;
+    KlasaBezNiczego klasaBezNiczego = new KlasaBezNiczego();
 
     public void metodaPubliczna() {
 
