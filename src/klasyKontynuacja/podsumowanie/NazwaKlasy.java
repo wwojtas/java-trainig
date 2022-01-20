@@ -12,7 +12,7 @@ public class NazwaKlasy {
     public void nazwaMetodaVoid() {
         int nazwaZmiennej = 44;
         System.out.println("Wypisałem z metody void");
-        metodaZwracaInt(5);
+
 
         System.out.println(nazwaZmiennej);
         System.out.println(this.nazwaZmiennej);
@@ -23,10 +23,6 @@ public class NazwaKlasy {
         System.out.println("druga metoda");
     }
 
-    private int metodaZwracaInt(int a) {
-        return a;
-    }
-
     private int metodaPrzyjmujeParametr(int a) {
         return a;
     }
@@ -35,9 +31,6 @@ public class NazwaKlasy {
         return 5;
     }
 
-    private int metodaPrzyjmujeParametr(int a, String a) {
-        return 55;
-    }
 
 
 

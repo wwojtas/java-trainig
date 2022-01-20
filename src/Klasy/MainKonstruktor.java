@@ -2,6 +2,7 @@ package Klasy;
 
 public class MainKonstruktor {
     public static void main(String[] args) {
+
         KlasaDlaMainKonstruktor klasaKonstruktor = new KlasaDlaMainKonstruktor(200);
 //        klasaKonstruktor.pierwszePole = 5;
 //        klasaKonstruktor.drugiePole = 105;
