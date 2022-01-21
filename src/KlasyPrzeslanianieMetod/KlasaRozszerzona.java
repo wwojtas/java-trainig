@@ -1,6 +1,6 @@
 package KlasyPrzeslanianieMetod;
 
-public class KlasaRozszerzona extends KlasaPodstawowa{
+public class KlasaRozszerzona extends KlasaPodstawowa {
 
     @Override
     void metoda() {
