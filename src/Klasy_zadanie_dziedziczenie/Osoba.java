@@ -1,6 +1,7 @@
-package zadanie_dziedziczenie;
+package Klasy_zadanie_dziedziczenie;
 
 public class Osoba {
+
     protected String imie;
     protected String nazwisko;
 
