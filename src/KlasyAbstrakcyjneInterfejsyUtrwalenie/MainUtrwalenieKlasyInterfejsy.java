@@ -35,7 +35,7 @@ public class MainUtrwalenieKlasyInterfejsy {
             public String kolejnaMetodaInterfejsuDrugiego() {
                 return "Klasa anonimowa";
             }
-        }
+        };
 
 
 
