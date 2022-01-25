@@ -7,6 +7,7 @@ public abstract class TelewizorSamsung implements Telewizor {
     private boolean stanWlaczony = false;
     private int numerKanalu = 1;
     private int cale;
+
     protected TelewizorSamsung(int cale) {
         this.cale = cale;
     }

@@ -1,0 +1,4 @@
+Jestem informacją z pliku wiersz 1
+Jestem informacją z pliku wiersz 2
+Jestem informacją z pliku wiersz 3
+Jestem informacją z pliku wiersz 4
